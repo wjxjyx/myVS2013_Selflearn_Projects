@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/8/23 上午 11:28:12。
+     1>项目“F:\数据\vs2013工程项目\AlgorithmDepository\AlgorithmDepository\AlgorithmDepository.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\软件安装\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         E:\软件安装\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\数据\vs2013工程项目\AlgorithmDepository\Debug\AlgorithmDepository.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\数据\vs2013工程项目\AlgorithmDepository\Debug\AlgorithmDepository.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\数据\vs2013工程项目\AlgorithmDepository\Debug\AlgorithmDepository.lib" /MACHINE:X86 Debug\Main.obj
+         AlgorithmDepository.vcxproj -> F:\数据\vs2013工程项目\AlgorithmDepository\Debug\AlgorithmDepository.exe
+     1>已完成生成项目“F:\数据\vs2013工程项目\AlgorithmDepository\AlgorithmDepository\AlgorithmDepository.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.86
